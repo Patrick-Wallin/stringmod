@@ -1,4 +1,4 @@
-module github.com/patrick-wallin/stringmod
+module github.com/Patrick-Wallin/stringmod
 
 go 1.20
 

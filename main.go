@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/patrick-wallin/stringmod/quotes"
-	"github.com/patrick-wallin/stringmod/strings"
+	"github.com/Patrick-Wallin/stringmod/quotes"
+	"github.com/Patrick-Wallin/stringmod/strings"
 )
 
 func main() {
